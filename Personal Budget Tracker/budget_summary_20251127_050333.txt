@@ -1,0 +1,7 @@
+Personal Budget Tracker Results
+--------------------------------
+Total Expenses: $920.00
+Average Expense: $306.67
+Highest Expense: Rent ($800.00)
+Lowest Expense: Snacks ($50.00)
+--------------------------------
